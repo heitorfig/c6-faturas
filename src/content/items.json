@@ -1,0 +1,368 @@
+[
+{"description": "Protec Bag Guarulhos", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 49.5
+  }
+]},
+{"description": "Drogaria Sao Paulo", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 99.26
+  }
+]},
+{"description": "Drogaria Sao Paulo", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 48.46
+  }
+]},
+{"description": "Drogasil", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 272.2
+  }
+]},
+{"description": "Decolar", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-05-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-06-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-07-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-08-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-09-01",
+    "value": 209.76
+  },
+  {
+    "date": "2023-10-01",
+    "value": 209.76
+  }
+]},
+{"description": "PayPal*SetApp", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 89.19
+  }
+]},
+{"description": "Paypal*Vodafone", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 96
+  }
+]},
+{"description": "YouTube", "count": true, "notInflate": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 34.9
+  }
+]},
+{"description": "Google Storage", "count": true, "notInflate": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 6.99
+  }
+]},
+{"description": "Spotify", "count": true, "notInflate": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 19.9
+  }
+]},
+{"description": "Netflix", "count": true, "notInflate": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 39.9
+  }
+]},
+{"description": "Decolar (Pais)", "count": true, "notInflate": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-05-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-06-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-07-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-08-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-09-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-10-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-11-01",
+    "value": 872.2
+  },
+  {
+    "date": "2023-12-01",
+    "value": 872.2
+  }
+]},
+{"description": "Decolar (Pais)", "count": false, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-05-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-06-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-07-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-08-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-09-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-10-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-11-01",
+    "value": 515.53
+  },
+  {
+    "date": "2023-12-01",
+    "value": 515.53
+  }
+]},
+{"description": "Localiza", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 55.47
+  },
+  {
+    "date": "2023-05-01",
+    "value": 55.47
+  },
+  {
+    "date": "2023-06-01",
+    "value": 55.47
+  },
+  {
+    "date": "2023-07-01",
+    "value": 55.47
+  },
+  {
+    "date": "2023-08-01",
+    "value": 55.47
+  }
+]},
+{"description": "Coqueluche", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 57.38
+  },
+  {
+    "date": "2023-05-01",
+    "value": 57.38
+  }
+]},
+{"description": "iPlace", "count": false, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 322.25
+  },
+  {
+    "date": "2023-05-01",
+    "value": 322.25
+  }
+]},
+{"description": "Localiza", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 526.32
+  },
+  {
+    "date": "2023-05-01",
+    "value": 526.32
+  },
+  {
+    "date": "2023-06-01",
+    "value": 526.32
+  },
+  {
+    "date": "2023-07-01",
+    "value": 526.32
+  }
+]},
+{"description": "Decolar (Férias)", "count": true, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 1382.36
+  },
+  {
+    "date": "2023-05-01",
+    "value": 1382.36
+  },
+  {
+    "date": "2023-06-01",
+    "value": 1382.36
+  },
+  {
+    "date": "2023-07-01",
+    "value": 1382.36
+  },
+  {
+    "date": "2023-08-01",
+    "value": 1382.36
+  },
+  {
+    "date": "2023-09-01",
+    "value": 1382.36
+  }
+]},
+{"description": "PayPal*Lieferando", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 51.89
+  }
+]},
+{"description": "PayPal*Lieferando", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 78.5
+  }
+]},
+{"description": "PayPal*Lieferando", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 159.78
+  }
+]},
+{"description": "PayPal*Lieferando", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 160.65
+  }
+]},
+{"description": "Rotativo", "count": false, "installments": [
+  {
+    "date": "2023-04-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-05-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-06-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-07-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-08-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-09-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-10-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-11-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2023-12-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2024-01-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2024-02-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2024-03-01",
+    "value": 1681.62
+  },
+  {
+    "date": "2024-04-01",
+    "value": 1681.62
+  }
+]},
+{"description": "IOF Rotativo", "count": false, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 205.4
+  }
+]},
+{"description": "Physio Links der Isar", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 189.13
+  }
+]},
+{"description": "Drogasil", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 178.09
+  }
+]},
+{"description": "Kalunga", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 158.03
+  }
+]},
+{"description": "Walmart", "count": true, "notInflate": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 6.25
+  }
+]},
+{"description": "Centauro", "count": true, "installments": [
+{
+    "date": "2023-04-01",
+    "value": 62.07
+  }
+]}
+]
