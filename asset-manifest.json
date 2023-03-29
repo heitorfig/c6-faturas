@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/c6-faturas/static/js/main.c73233cf.js",
+    "main.js": "/c6-faturas/static/js/main.bdf76fad.js",
     "static/media/logo.svg": "/c6-faturas/static/media/logo.0d7e72f2fd893e7737f59c79dd977fb8.svg",
     "index.html": "/c6-faturas/index.html",
-    "main.c73233cf.js.map": "/c6-faturas/static/js/main.c73233cf.js.map"
+    "main.bdf76fad.js.map": "/c6-faturas/static/js/main.bdf76fad.js.map"
   },
   "entrypoints": [
-    "static/js/main.c73233cf.js"
+    "static/js/main.bdf76fad.js"
   ]
 }
