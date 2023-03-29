@@ -9,3 +9,8 @@ export interface FaturaItem {
   notInflate?: boolean | undefined;
   installments: Installment[];
 }
+
+export interface Pagamento {
+  value: number;
+  date: string;
+}
