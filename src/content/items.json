@@ -57,10 +57,42 @@
   {
     "date": "2023-04-01",
     "value": 89.19
+  },
+  {
+    "date": "2023-05-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-06-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-07-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-08-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-09-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-10-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-11-01",
+    "value": 89.19
+  },
+  {
+    "date": "2023-12-01",
+    "value": 89.19
   }
 ]},
 {"description": "Paypal*Vodafone", "count": true, "installments": [
-{
+  {
     "date": "2023-04-01",
     "value": 96
   }
@@ -72,13 +104,45 @@
   }
 ]},
 {"description": "Google Storage", "count": true, "notInflate": true, "installments": [
-{
+  {
     "date": "2023-04-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-05-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-06-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-07-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-08-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-09-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-10-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-11-01",
+    "value": 6.99
+  },
+  {
+    "date": "2023-12-01",
     "value": 6.99
   }
 ]},
 {"description": "Spotify", "count": true, "notInflate": true, "installments": [
-{
+  {
     "date": "2023-04-01",
     "value": 19.9
   }
@@ -360,7 +424,7 @@
   }
 ]},
 {"description": "Centauro", "count": true, "installments": [
-{
+  {
     "date": "2023-04-01",
     "value": 62.07
   }
