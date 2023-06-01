@@ -29,7 +29,7 @@ export const Fatura = ({ date, label, items, pagamentos }: FaturaProps): React.R
   const totalRaw = sumFaturaRaw - sumPagamentosRaw;
   const total = Math.abs(totalRaw).toFixed(2).toString().replace('.', ',');
 
-  const status = totalRaw > 0 ? 'warning' : 'success';
+  const status = Math.round(totalRaw) > 0 ? 'warning' : 'success';
 
   return (
     <Accordion key={date}>
